@@ -1,7 +1,7 @@
 name: Heel.al
 favicon: null
-layout_spectrum: 0.90363
-typography_spectrum: 0.50909
+layout_spectrum: 0.45022
+typography_spectrum: 0.67877
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#f08456'
     - '#4d4e45'
     - '#787066'
-  brandStrength: 0.25
+  brandStrength: 0.3125
   lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
