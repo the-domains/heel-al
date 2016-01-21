@@ -1,0 +1,28 @@
+name: Heel.al
+favicon: null
+layout_spectrum: 0.21656222501769662
+typography_spectrum: 0.07098401500843465
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.14894365170039237
+  lightness: 0.6194235049188137
+  saturation: 0.616999396821484
+  rhythmicContrast: 0.41518937377259135
+purpose: []
