@@ -1,7 +1,7 @@
 name: Heel.al
 favicon: null
-layout_spectrum: 0.21656222501769662
-typography_spectrum: 0.07098401500843465
+layout_spectrum: 0.90363
+typography_spectrum: 0.50909
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.14894365170039237
-  lightness: 0.6194235049188137
-  saturation: 0.616999396821484
-  rhythmicContrast: 0.41518937377259135
+    - '#fcdfd7'
+    - '#060606'
+    - '#f08456'
+    - '#4d4e45'
+    - '#787066'
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
